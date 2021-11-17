@@ -1,0 +1,13 @@
+name,street,id
+frank,minstreet,0
+peter,minstreet,0
+stefan,unistreet,0
+jens,shortstreet,1
+steve,macstreet,1
+felix,macstreet,5
+hans,msstreet,5
+alekh,unistreet,7
+jorge,minstreet,9
+mike,longstreet,9
+olaf,macstreet,9
+tim,unistreet,9
