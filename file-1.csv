@@ -1,8 +1,8 @@
-id,name,surname,department_id
-1,John,Smith,2
-2,Pete,Hallock,1
-3,Freddie,Ruckman,4
-4,Lee,Alen,4
-5,Paul,Miller,3
-6,David,King,4
-7,Nicol,Green,2
+department_id,id,name,surname
+2,1,John,Smith
+1,2,Pete,Hallock
+4,3,Freddie,Ruckman
+4,4,Lee,Alen
+3,5,Paul,Miller
+4,6,David,King
+2,7,Nicol,Green
